@@ -92,16 +92,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "菜鸟课程",
+        href: "http://www.runoob.com/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书",
+        href: "http://www.jianshu.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Github",
+        href: "https://github.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "虎嗅网",
+        href: "https://www.huxiu.com/"
     }
 ]
